@@ -1,0 +1,48 @@
+The history of AI can be traced back to ancient myths and philosophical discussions about thinking machines, but its formal development began in the mid-20th century with the advent of electronic computers. Key milestones include Alan Turing's work on machine intelligence, John McCarthy coining the term "artificial intelligence," and the development of early AI programs like the Logic Theorist and Eliza. Early AI research focused on rule-based systems, but later advancements led to the rise of machine learning, neural networks, and deep learning, significantly impacting various fields. 
+Early Concepts and Foundations (Pre-1950s):
+Ancient and Philosophical Roots:
+Ideas about automatons and thinking machines can be found in myths and philosophical discussions from ancient times. 
+Alan Turing:
+Turing's 1950 paper, "Computing Machinery and Intelligence," proposed the Turing Test as a way to assess a machine's ability to exhibit intelligent behavior. 
+Early Neural Networks:
+Warren McCulloch and Walter Pitts presented a model of artificial neurons in 1943, considered a foundational step in AI. 
+The Birth of AI as a Field (1950s):
+Dartmouth Workshop (1956):
+John McCarthy organized a workshop at Dartmouth College where the term "artificial intelligence" was formally introduced, marking the official beginning of AI as a research field. 
+Early AI Programs:
+Arthur Samuel developed a checkers-playing program that could learn from its own experience, and Allen Newell, J. Clifford Shaw, and Herbert Simon created the Logic Theorist, a program designed to prove mathematical theorems. 
+The First AI Boom and Subsequent Challenges (1960s-1970s):
+Rule-Based Systems:
+Early AI systems relied heavily on rule-based approaches, which proved limited in handling complex real-world scenarios. 
+Neural Networks Emerge:
+Frank Rosenblatt developed the perceptron, an early form of neural network, and Bernard Widrow and Marcian Hoff created MADALINE, a neural network used for echo cancellation on phone lines. 
+Chatbots and Early Applications:
+Joseph Weizenbaum developed the ELIZA program, an early chatbot, and researchers explored AI for tasks like image recognition and problem-solving. 
+The Rise of Machine Learning and Deep Learning (1980s-Present):
+Machine Learning Approaches:
+The 1980s saw a shift towards machine learning techniques, including neural networks, decision trees, and support vector machines. 
+Neural Network Revolution:
+Neural networks gained popularity for tasks like speech recognition, stock market prediction, and movie recommendations. 
+Data-Driven AI:
+Increased processing power and data availability fueled the growth of data-driven AI systems. 
+Deep Learning and Recent Advancements:
+Deep learning, a subset of machine learning that uses artificial neural networks with multiple layers, has led to significant advancements in areas like image and speech recognition, natural language processing, and game playing. 
+Recent Milestones:
+IBM's Deep Blue defeated a world chess champion in 1997, and IBM Watson won on Jeopardy! in 2011. Baidu's Minwa supercomputer achieved high accuracy in image recognition using convolutional neural networks. The release of ChatGPT in 2022 demonstrated the potential of large language models. 
+
+The history of artificial intelligence (AI) began in antiquity, with myths, stories, and rumors of artificial beings endowed with intelligence or consciousness by master craftsmen. The study of logic and formal reasoning from antiquity to the present led directly to the invention of the programmable digital computer in the 1940s, a machine based on abstract mathematical reasoning. This device and the ideas behind it inspired scientists to begin discussing the possibility of building an electronic brain.
+
+The field of AI research was founded at a workshop held on the campus of Dartmouth College in 1956.[1] Attendees of the workshop became the leaders of AI research for decades. Many of them predicted that machines as intelligent as humans would exist within a generation. The U.S. government provided millions of dollars with the hope of making this vision come true.[2]
+
+Eventually, it became obvious that researchers had grossly underestimated the difficulty of this feat.[3] In 1974, criticism from James Lighthill and pressure from the U.S.A. Congress led the U.S. and British Governments to stop funding undirected research into artificial intelligence. Seven years later, a visionary initiative by the Japanese Government and the success of expert systems reinvigorated investment in AI, and by the late 1980s, the industry had grown into a billion-dollar enterprise. However, investors' enthusiasm waned in the 1990s, and the field was criticized in the press and avoided by industry (a period known as an "AI winter"). Nevertheless, research and funding continued to grow under other names.
+
+In the early 2000s, machine learning was applied to a wide range of problems in academia and industry. The success was due to the availability of powerful computer hardware, the collection of immense data sets, and the application of solid mathematical methods. Soon after, deep learning proved to be a breakthrough technology, eclipsing all other methods. The transformer architecture debuted in 2017 and was used to produce impressive generative AI applications, amongst other use cases.
+
+Investment in AI boomed in the 2020s. The recent AI boom, initiated by the development of transformer architecture, led to the rapid scaling and public releases of large language models (LLMs) like ChatGPT. These models exhibit human-like traits of knowledge, attention, and creativity, and have been integrated into various sectors, fueling exponential investment in AI. However, concerns about the potential risks and ethical implications of advanced AI have also emerged, causing debate about the future of AI and its impact on society.
+
+Precursors
+Mythical, fictional, and speculative precursors
+Myth and legend
+In Greek mythology, Talos was a creature made of bronze who acted as guardian for the island of Crete. He would throw boulders at the ships of invaders and would complete 3 circuits around the island's perimeter daily.[4] According to pseudo-Apollodorus' Bibliotheke, Hephaestus forged Talos with the aid of a cyclops and presented the automaton as a gift to Minos.[5] In the Argonautica, Jason and the Argonauts defeated Talos by removing a plug near his foot, causing the vital ichor to flow out from his body and rendering him lifeless.[6]
+
+Pygmalion was a legendary king and sculptor of Greek mythology, famously represented in Ovid's Metamorphoses. In the 10th book of Ovid's narrative poem, Pygmalion becomes disgusted with women when he witnesses the way in which the Propoetides prostitute themselves. Despite this, he makes offerings at the temple of Venus asking the goddess to bring to him a woman just like a statue he carved.[7]
